@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\SistemaVeterinario\Bibliotecas\CapaIntegracion.dll
+C:\Users\Usuario\source\repos\SistemaVeterinario\Bibliotecas\CapaIntegracion.pdb
+C:\Users\Usuario\source\repos\SistemaVeterinario\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\SistemaVeterinario\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\SistemaVeterinario\CapaIntegracion\obj\Debug\CapaIntegracion.csproj.CopyComplete
+C:\Users\Usuario\source\repos\SistemaVeterinario\CapaIntegracion\obj\Debug\CapaIntegracion.dll
+C:\Users\Usuario\source\repos\SistemaVeterinario\CapaIntegracion\obj\Debug\CapaIntegracion.pdb

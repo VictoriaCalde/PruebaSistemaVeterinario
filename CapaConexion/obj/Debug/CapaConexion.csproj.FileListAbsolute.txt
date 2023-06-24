@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\SistemaVeterinario\Bibliotecas\CapaConexion.dll
+C:\Users\Usuario\source\repos\SistemaVeterinario\Bibliotecas\CapaConexion.pdb
+C:\Users\Usuario\source\repos\SistemaVeterinario\CapaConexion\obj\Debug\CapaConexion.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\SistemaVeterinario\CapaConexion\obj\Debug\CapaConexion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\SistemaVeterinario\CapaConexion\obj\Debug\CapaConexion.dll
+C:\Users\Usuario\source\repos\SistemaVeterinario\CapaConexion\obj\Debug\CapaConexion.pdb

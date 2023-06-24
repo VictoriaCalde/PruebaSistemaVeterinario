@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\SistemaVeterinario\Bibliotecas\CapaLogica.dll
+C:\Users\Usuario\source\repos\SistemaVeterinario\Bibliotecas\CapaLogica.pdb
+C:\Users\Usuario\source\repos\SistemaVeterinario\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\SistemaVeterinario\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\SistemaVeterinario\CapaLogica\obj\Debug\CapaLogica.csproj.CopyComplete
+C:\Users\Usuario\source\repos\SistemaVeterinario\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\Usuario\source\repos\SistemaVeterinario\CapaLogica\obj\Debug\CapaLogica.pdb

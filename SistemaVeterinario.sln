@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaConexion", "CapaConexion\CapaConexion.csproj", "{BA0234C6-E659-41F2-A479-E0418191D7F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaLogica", "CapaLogica\CapaLogica.csproj", "{538FFA93-6A33-41E1-BC76-4996B9DAA4C8}"
+	ProjectSection(ProjectDependencies) = postProject
+		{BA0234C6-E659-41F2-A479-E0418191D7F0} = {BA0234C6-E659-41F2-A479-E0418191D7F0}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaIntegracion", "CapaIntegracion\CapaIntegracion.csproj", "{64DE57F4-1D04-48F0-91D0-526697CCE897}"
+	ProjectSection(ProjectDependencies) = postProject
+		{538FFA93-6A33-41E1-BC76-4996B9DAA4C8} = {538FFA93-6A33-41E1-BC76-4996B9DAA4C8}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaPresentacion", "CapaPresentacion\CapaPresentacion.csproj", "{DAE4BB04-405A-473A-BCD8-B77594657413}"
+	ProjectSection(ProjectDependencies) = postProject
+		{64DE57F4-1D04-48F0-91D0-526697CCE897} = {64DE57F4-1D04-48F0-91D0-526697CCE897}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeterinariaWeb", "VeterinariaWeb\VeterinariaWeb.csproj", "{678A85EF-3D6A-4305-AD3F-4C539A1AA61F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA0234C6-E659-41F2-A479-E0418191D7F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA0234C6-E659-41F2-A479-E0418191D7F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA0234C6-E659-41F2-A479-E0418191D7F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA0234C6-E659-41F2-A479-E0418191D7F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{538FFA93-6A33-41E1-BC76-4996B9DAA4C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{538FFA93-6A33-41E1-BC76-4996B9DAA4C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{538FFA93-6A33-41E1-BC76-4996B9DAA4C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{538FFA93-6A33-41E1-BC76-4996B9DAA4C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64DE57F4-1D04-48F0-91D0-526697CCE897}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64DE57F4-1D04-48F0-91D0-526697CCE897}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64DE57F4-1D04-48F0-91D0-526697CCE897}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64DE57F4-1D04-48F0-91D0-526697CCE897}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAE4BB04-405A-473A-BCD8-B77594657413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAE4BB04-405A-473A-BCD8-B77594657413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAE4BB04-405A-473A-BCD8-B77594657413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAE4BB04-405A-473A-BCD8-B77594657413}.Release|Any CPU.Build.0 = Release|Any CPU
+		{678A85EF-3D6A-4305-AD3F-4C539A1AA61F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{678A85EF-3D6A-4305-AD3F-4C539A1AA61F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{678A85EF-3D6A-4305-AD3F-4C539A1AA61F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{678A85EF-3D6A-4305-AD3F-4C539A1AA61F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {613769D7-58E7-4C27-8DD3-F51CBC0A2C73}
+	EndGlobalSection
+EndGlobal

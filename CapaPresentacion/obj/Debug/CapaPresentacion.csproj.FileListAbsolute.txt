@@ -1,0 +1,48 @@
+C:\Users\Usuario\source\repos\SistemaVeterinario\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Usuario\source\repos\SistemaVeterinario\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Usuario\source\repos\SistemaVeterinario\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Usuario\source\repos\SistemaVeterinario\CapaPresentacion\bin\Debug\CapaConexion.dll
+C:\Users\Usuario\source\repos\SistemaVeterinario\CapaPresentacion\bin\Debug\CapaIntegracion.dll
+C:\Users\Usuario\source\repos\SistemaVeterinario\CapaPresentacion\bin\Debug\CapaLogica.dll
+C:\Users\Usuario\source\repos\SistemaVeterinario\CapaPresentacion\bin\Debug\CapaConexion.pdb
+C:\Users\Usuario\source\repos\SistemaVeterinario\CapaPresentacion\bin\Debug\CapaIntegracion.pdb
+C:\Users\Usuario\source\repos\SistemaVeterinario\CapaPresentacion\bin\Debug\CapaLogica.pdb
+C:\Users\Usuario\source\repos\SistemaVeterinario\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\SistemaVeterinario\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\SistemaVeterinario\CapaPresentacion\obj\Debug\CapaPresentacion.frmDuenno.resources
+C:\Users\Usuario\source\repos\SistemaVeterinario\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEspecie.resources
+C:\Users\Usuario\source\repos\SistemaVeterinario\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMascota.resources
+C:\Users\Usuario\source\repos\SistemaVeterinario\CapaPresentacion\obj\Debug\CapaPresentacion.FormMedicamento.resources
+C:\Users\Usuario\source\repos\SistemaVeterinario\CapaPresentacion\obj\Debug\CapaPresentacion.frmMenu.resources
+C:\Users\Usuario\source\repos\SistemaVeterinario\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVeterinario.resources
+C:\Users\Usuario\source\repos\SistemaVeterinario\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Usuario\source\repos\SistemaVeterinario\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\SistemaVeterinario\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\SistemaVeterinario\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Usuario\source\repos\SistemaVeterinario\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Usuario\source\repos\SistemaVeterinario\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Usuario\source\repos\SistemaVeterinario\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTratamiento.resources
+C:\Users\Usuario\source\repos\SistemaVeterinario\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCita.resources
+C:\Users\Usuario\source\repos\SistemaVeterinario\CapaPresentacion\obj\Debug\CapaPresentacion.FrmExpediente.resources
+C:\Users\Usuario\source\repos\SistemaVeterinario\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuario.resources
+C:\Users\Usuario\source\repos\SistemaVeterinario\CapaPresentacion\bin\Debug\CapaPresentacion.exe.manifest
+C:\Users\Usuario\source\repos\SistemaVeterinario\CapaPresentacion\bin\Debug\CapaPresentacion.application
+C:\Users\Usuario\source\repos\SistemaVeterinario\CapaPresentacion\obj\Debug\CapaPresentacion.exe.manifest
+C:\Users\Usuario\source\repos\SistemaVeterinario\CapaPresentacion\obj\Debug\CapaPresentacion.application
+C:\Users\Usuario\Documents\I semestre 2022\Lenguajes para aplicaciones comerciales\SistemaVeterinario\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\I semestre 2022\Lenguajes para aplicaciones comerciales\SistemaVeterinario\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Documents\I semestre 2022\Lenguajes para aplicaciones comerciales\SistemaVeterinario\CapaPresentacion\obj\Debug\CapaPresentacion.FrmCita.resources
+C:\Users\Usuario\Documents\I semestre 2022\Lenguajes para aplicaciones comerciales\SistemaVeterinario\CapaPresentacion\obj\Debug\CapaPresentacion.frmDuenno.resources
+C:\Users\Usuario\Documents\I semestre 2022\Lenguajes para aplicaciones comerciales\SistemaVeterinario\CapaPresentacion\obj\Debug\CapaPresentacion.FrmEspecie.resources
+C:\Users\Usuario\Documents\I semestre 2022\Lenguajes para aplicaciones comerciales\SistemaVeterinario\CapaPresentacion\obj\Debug\CapaPresentacion.FrmExpediente.resources
+C:\Users\Usuario\Documents\I semestre 2022\Lenguajes para aplicaciones comerciales\SistemaVeterinario\CapaPresentacion\obj\Debug\CapaPresentacion.FrmMascota.resources
+C:\Users\Usuario\Documents\I semestre 2022\Lenguajes para aplicaciones comerciales\SistemaVeterinario\CapaPresentacion\obj\Debug\CapaPresentacion.FormMedicamento.resources
+C:\Users\Usuario\Documents\I semestre 2022\Lenguajes para aplicaciones comerciales\SistemaVeterinario\CapaPresentacion\obj\Debug\CapaPresentacion.frmMenu.resources
+C:\Users\Usuario\Documents\I semestre 2022\Lenguajes para aplicaciones comerciales\SistemaVeterinario\CapaPresentacion\obj\Debug\CapaPresentacion.FrmTratamiento.resources
+C:\Users\Usuario\Documents\I semestre 2022\Lenguajes para aplicaciones comerciales\SistemaVeterinario\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuario.resources
+C:\Users\Usuario\Documents\I semestre 2022\Lenguajes para aplicaciones comerciales\SistemaVeterinario\CapaPresentacion\obj\Debug\CapaPresentacion.FrmVeterinario.resources
+C:\Users\Usuario\Documents\I semestre 2022\Lenguajes para aplicaciones comerciales\SistemaVeterinario\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Usuario\Documents\I semestre 2022\Lenguajes para aplicaciones comerciales\SistemaVeterinario\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\I semestre 2022\Lenguajes para aplicaciones comerciales\SistemaVeterinario\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\I semestre 2022\Lenguajes para aplicaciones comerciales\SistemaVeterinario\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Usuario\Documents\I semestre 2022\Lenguajes para aplicaciones comerciales\SistemaVeterinario\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
